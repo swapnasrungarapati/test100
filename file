@@ -1,7 +1,17 @@
  hi good morning 
  this is developed by a developer with name file
+<<<<<<< HEAD
  good night file 
 
 
 
  again file modified by master branch
+=======
+
+
+ hello
+ good afetr noon 
+ developed from develpoer1 branch
+ ls
+
+>>>>>>> developer1
